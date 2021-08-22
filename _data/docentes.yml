@@ -12,16 +12,6 @@ ayudantes:
   mail: lopezn.agustin@gmail.com
   github: 
 
-- nombre: Ana Secchi
-  foto: /assets/img/docentes/anas.jpg
-  mail: asecchi@fi.uba.ar
-  github: 
-
-- nombre: Camila Dvorkin
-  foto: /assets/img/docentes/camid.png
-  mail: camidvorkin@gmail.com
-  github: camidvorkin 
-
 - nombre: Ezequiel Genender
   foto: /assets/img/docentes/ezeg.jpg
   mail: egenender@gmail.com
@@ -54,7 +44,7 @@ ayudantes:
 
 - nombre: Jasmina Sella Faena
   foto: /assets/img/docentes/jasminasf.jpg
-  mail: jasminasf@gmail.com
+  mail: jsellafaena@fi.uba.ar
   github: jas-chu
 
 - nombre: Jorge Collinet
@@ -62,20 +52,20 @@ ayudantes:
   mail: collinetjorge@gmail.com
   github: jorgeCollinet
 
+- nombre: Julián Crespo
+  foto: /assets/img/docentes/julic.jpg
+  mail: juliancrespo15@gmail.com
+  github: komod0
+
 - nombre: Matías Cano
   foto: /assets/img/docentes/matic.png
   mail: tutecano1995@gmail.com
   github: tutecano1995 
 
-- nombre: Milena Marchese
-  foto: /assets/img/docentes/milem.jpg
-  mail: mile.marchese@gmail.com
-  github: milenamarchese
-
 - nombre: Taiel Colavecchia
   foto: /assets/img/docentes/taiel.jpg
   mail: tcolavecchia@fi.uba.ar
-  github: 
+  github: TaielC
 
 - nombre: Tomás Grüner
   foto: /assets/img/docentes/tomig.jpg
